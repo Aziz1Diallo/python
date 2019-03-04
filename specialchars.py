@@ -1,0 +1,1 @@
+print('a\nB\nc')print('A\tE\tF')print('je suis\btro for')print('c\a nè\a pas \avrai')print("ceci\n\bne\tte\bconcerne\apas")
